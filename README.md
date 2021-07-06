@@ -1,7 +1,9 @@
 # jpg-loaders-comparison
 
 libjpeg-turbo installation: `sudo apt-get install libjpeg-turbo8-dev libjpeg8-dev libturbojpeg0-dev`
+
 build: `meson build ; ninja -C build`
+
 run: `build/main`
 
 Result:
